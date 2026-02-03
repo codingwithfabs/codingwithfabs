@@ -4,6 +4,7 @@
 <p>Fullstack Developer In training, Currently Focused on Building Clean and Functional FrontEnd sites.</p>
 
 ###
+<h3 align="Left">Connect</h3>
 
 <div align="center">
   <a href="https://youtube.com/@codingwithfabs" target="_blank">
@@ -20,7 +21,7 @@
 
 ###
 
-<ul align="left">Intrested in Logistics Systems ( Uber )<br><br>- Completing Fullstack Course on <a href="https://scrimba.com/codingwithfabs">Srimba</a><br><a href="https://moringaschool.com/">Moringa</a> BootCamp Graduate</ul>
+<li><ul align="left">Intrested in Logistics Systems ( Uber )<br><br>- Completing Fullstack Course on <a href="https://scrimba.com/codingwithfabs">Srimba</a><br><a href="https://moringaschool.com/">Moringa</a> BootCamp Graduate</ul></li>
 
 ###
 
