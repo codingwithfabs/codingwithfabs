@@ -1,6 +1,6 @@
 ###
 
-<h2 align="Left">Hi 👋, I'm Fabian</h2>
+<h1 align="Left">Hi 👋, I'm Fabian</h1>
 
 ###
 
@@ -11,12 +11,6 @@
   <a href="https://x.com/codingwithfabs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -51,12 +45,6 @@
 
 ###
 
-<a href="https://scrimba.com/codingwithfabs"><img width="320" height="48" alt="scrimba promo" src="https://github.com/user-attachments/assets/7c2edd0b-8510-419b-8fc6-23202e037e70" /></a>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<a href="https://scrimba.com/codingwithfabs"><img style="max-width: 100%;" alt="scrimba promo" src="https://github.com/user-attachments/assets/7c2edd0b-8510-419b-8fc6-23202e037e70" /></a>
 
 ###
