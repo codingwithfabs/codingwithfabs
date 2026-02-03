@@ -1,10 +1,6 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXI0d2JtczN6MXc3YmtvaHpzanB2Z2ttY3J3cDNycGtqYjM0bDk0ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Asb0LwwJP9o9Y2VZip/giphy.gif"  />
-</div>
-
 ###
 
-<h1 align="center">Hi 👋, I'm Fabian</h1>
+<h2 align="Left">Hi 👋, I'm Fabian</h2>
 
 ###
 
@@ -55,17 +51,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=codingwithfabs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/codingwithfabs/codingwithfabs/output/snake.svg" alt="Snake animation" />
+<a href="https://scrimba.com/codingwithfabs"><img width="320" height="48" alt="scrimba promo" src="https://github.com/user-attachments/assets/7c2edd0b-8510-419b-8fc6-23202e037e70" /></a>
 
 ###
 
