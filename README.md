@@ -1,6 +1,7 @@
 ###
 
 <h1 align="Left">Hi 👋, I'm Fabian</h1>
+<p>Fullstack Developer In training, Currently Focused on Building Clean and Functional FrontEnd sites.</p>
 
 ###
 
@@ -15,15 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Current Status</h3>
 
 ###
 
-<p align="left">I'm Fabian,  from Kenya 🇰🇪<br><br>- 🔭 I’m a self-taught fullstack dev<br>- 📚 I'm currently learning frontend<br>- ⚡ In my free time I just chill fr</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<ul align="left">Intrested in Logistics Systems ( Uber )<br><br>- Completing Fullstack Course on <a href="https://scrimba.com/codingwithfabs">Srimba</a><br><a href="https://moringaschool.com/">Moringa</a> BootCamp Graduate</ul>
 
 ###
 
