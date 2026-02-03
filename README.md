@@ -21,7 +21,11 @@
 
 ###
 
-<li><ul align="left">Intrested in Logistics Systems ( Uber )<br><br><ul>Completing Fullstack Course on <a href="https://scrimba.com/codingwithfabs">Srimba</a></ul><br><ul><a href="https://moringaschool.com/">Moringa</a></ul><ul>BootCamp Graduate</ul></li>
+<ul align="left">
+  <li>Interested in Logistics Systems (Uber)</li>
+  <li>Completing Fullstack Course on <a href="https://scrimba.com/codingwithfabs">Scrimba</a></li>
+  <li><a href="https://moringaschool.com/">Moringa</a> Bootcamp Graduate</li>
+</ul>
 
 ###
 
