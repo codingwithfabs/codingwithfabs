@@ -6,7 +6,7 @@
 ###
 <h3 align="Left">Connect</h3>
 
-<div align="center">
+<div align="Left">
   <a href="https://youtube.com/@codingwithfabs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   </a>
@@ -21,7 +21,7 @@
 
 ###
 
-<li><ul align="left">Intrested in Logistics Systems ( Uber )<br><br>- Completing Fullstack Course on <a href="https://scrimba.com/codingwithfabs">Srimba</a><br><a href="https://moringaschool.com/">Moringa</a> BootCamp Graduate</ul></li>
+<li><ul align="left">Intrested in Logistics Systems ( Uber )<br><br><ul>Completing Fullstack Course on <a href="https://scrimba.com/codingwithfabs">Srimba</a></ul><br><ul><a href="https://moringaschool.com/">Moringa</a></ul><ul>BootCamp Graduate</ul></li>
 
 ###
 
